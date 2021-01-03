@@ -1,2 +1,2 @@
 # index.php
-echo "";
+echo "HI";
